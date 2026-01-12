@@ -1,0 +1,11 @@
+bertopic
+hdbscan
+numpy
+pandas
+plotly
+pyarrow
+scikit-learn
+sentence-transformers
+stopwordsiso
+torch
+umap-learn
