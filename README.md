@@ -1,4 +1,4 @@
 - IMDB deki 10.000 film ve açıklamalarının kullanarak filmleri  clusterlama projesi.
 - Bertopic mimarisi sayesinde hem clusterları oluşturabiliyoruz hem de bu oluşturduğumuz clustlerla "topic labeling" uygulamamız mümkün oluyor. Bu modelin aynı zamanda açıklanabilir olmasını sağlıyor.
-- Bu repoyu klonlayıp app.py 'ı çalıştırarak modeli basit bir UI ile de deneyebilirsiniz.
+- Bu repoyu klonlayıp app.py 'ı (önce jupyter notebook u çalıştırarak artifactleri oluşturmaya dikkat) çalıştırarak modeli basit bir UI ile de deneyebilirsiniz.
 - Referans aldığım kitap - >  Hands On Large Language Models ( sayfa 137-164)
